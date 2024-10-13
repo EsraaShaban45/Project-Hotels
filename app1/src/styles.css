@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url('/images/pexels-dajana-reci-289671698-16247245.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
